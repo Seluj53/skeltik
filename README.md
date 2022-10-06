@@ -1,2 +1,2 @@
 # Skeltik
-This is a SvelteKit + Skeleton project template
+This is a minimal SvelteKit + Tailwindcss + Skeleton project template
